@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sambel-Pecel-Hj-Muawanah/static/css/main.675b385a.css",
+    "main.js": "/Sambel-Pecel-Hj-Muawanah/static/js/main.f79f8148.js",
+    "static/media/bannerBG.png": "/Sambel-Pecel-Hj-Muawanah/static/media/bannerBG.f4f655826ad234201a4d.png",
+    "static/media/aboutBG.png": "/Sambel-Pecel-Hj-Muawanah/static/media/aboutBG.ed16a3c08b19adbc0d48.png",
+    "static/media/pecel.png": "/Sambel-Pecel-Hj-Muawanah/static/media/pecel.3a733396832d94d4f510.png",
+    "static/media/profpic.png": "/Sambel-Pecel-Hj-Muawanah/static/media/profpic.6ebbe761f0057b754fa8.png",
+    "static/media/cabai.png": "/Sambel-Pecel-Hj-Muawanah/static/media/cabai.4add42b20cae4d9a8d3c.png",
+    "static/media/gulajawa.png": "/Sambel-Pecel-Hj-Muawanah/static/media/gulajawa.4ef448ac5ac4c6d6650c.png",
+    "static/media/kacang.png": "/Sambel-Pecel-Hj-Muawanah/static/media/kacang.77a9a33ea68d3811eb53.png",
+    "static/media/chilli-full.png": "/Sambel-Pecel-Hj-Muawanah/static/media/chilli-full.85d16777446d20a4588c.png",
+    "static/media/chilli-empty.png": "/Sambel-Pecel-Hj-Muawanah/static/media/chilli-empty.5df3ad594fd62bb5037c.png",
+    "index.html": "/Sambel-Pecel-Hj-Muawanah/index.html",
+    "main.675b385a.css.map": "/Sambel-Pecel-Hj-Muawanah/static/css/main.675b385a.css.map",
+    "main.f79f8148.js.map": "/Sambel-Pecel-Hj-Muawanah/static/js/main.f79f8148.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.675b385a.css",
+    "static/js/main.f79f8148.js"
+  ]
+}
